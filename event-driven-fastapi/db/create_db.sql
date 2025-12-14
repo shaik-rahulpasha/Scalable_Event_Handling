@@ -1,0 +1,2 @@
+CREATE DATABASE web;
+CREATE DATABASE web_test;
