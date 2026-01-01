@@ -45,7 +45,7 @@ Before you begin, make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/junior92jr/fastapi-docker-postgres-devcontainer-seed.git
+   https://github.com/shaik-rahulpasha/Scalable_Event_Handling.git
    cd fastapi-docker-postgres-devcontainer-seed
    ```
 
